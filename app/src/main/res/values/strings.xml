@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestFilms</string>
+    <string name="title">Название</string>
+    <string name="rating">Рейтинг</string>
+    <string name="trailer">Показать ссылку на трейтер</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="releaseDate">Дата релиза</string>
+
+</resources>
